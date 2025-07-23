@@ -27,14 +27,14 @@ The core model used is a **Random Forest Regressor**, which delivers high accura
 To make a prediction, the following customer details are required:
 
 - Age  
-- Gender  
-- Annual Income  
-- Spending Score  
-- Recency (days since last transaction)  
-- Frequency (number of visits)  
+- Income Level  
+- Total Transactions
+- Days Since Last Transaction
+- Active Days in a year  
+- Customer Satisfaction Score  
 - Average Transaction Value  
-- Total Revenue  
-- Membership Status  
+- Total spent  
+- Preferred Payment Method 
 
 ---
 
