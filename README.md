@@ -22,7 +22,7 @@ The core model used is a **Random Forest Regressor**, which delivers high accura
 
 ---
 
-## 📊 Input Fields
+##  Input Fields
 
 To make a prediction, the following customer details are required:
 
