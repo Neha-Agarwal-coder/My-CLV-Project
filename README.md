@@ -4,7 +4,7 @@ Welcome to **Customer Lifetime Value (CLV) Predictor** – a machine learning-po
 
 ---
 
-## 📝 Overview
+##  Overview
 
 Customer Lifetime Value (CLV) Predictor is a Customer Lifetime Value prediction web application built using machine learning and deployed via Streamlit. The model is trained on a real-world digital wallet dataset containing over **7,000 customer records**, allowing businesses to estimate how valuable a customer will be over the course of their relationship.
 
@@ -12,7 +12,7 @@ The core model used is a **Random Forest Regressor**, which delivers high accura
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Predictive Analytics**: Enter customer details and get an instant CLV prediction.
 - **Machine Learning Powered**: Uses Random Forest for robust, non-linear regression modeling.
@@ -38,7 +38,7 @@ To make a prediction, the following customer details are required:
 
 ---
 
-## 🌐 How to Use
+##  How to Use
 
 1. Visit [https://my-clv-project-6zlt9ffh4grcanlewn4yz9.streamlit.app/] to access Customer Lifetime Value (CLV) Predictor web application.
 2. Fill in the customer details in the sidebar.
@@ -47,7 +47,7 @@ To make a prediction, the following customer details are required:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Streamlit** – for web app deployment
@@ -57,7 +57,7 @@ To make a prediction, the following customer details are required:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Name**: FinTech Customer Life Time Value (LTV) Dataset (Kaggle)
 - **Dataset size**:7000x20 
@@ -65,7 +65,7 @@ To make a prediction, the following customer details are required:
 
 ---
 
-## 📦 Installation (for local setup)
+##  Installation (for local setup)
 
 ```bash
 pip install -r requirements.txt
@@ -74,7 +74,7 @@ streamlit run app.py
 
 ---
 
-## 📬 Feedback
+##  Feedback
 
 We would love to hear your feedback! If you encounter any issues, have suggestions, or want to share your experience, please reach out to us.
 
