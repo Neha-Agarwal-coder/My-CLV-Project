@@ -40,7 +40,7 @@ To make a prediction, the following customer details are required:
 
 ## 🌐 How to Use
 
-1. Visit the deployed app at: [https://my-clv-project-6zlt9ffh4grcanlewn4yz9.streamlit.app/](#)
+1. Visit [https://my-clv-project-6zlt9ffh4grcanlewn4yz9.streamlit.app/] to access Customer Lifetime Value (CLV) Predictor web application.
 2. Fill in the customer details in the sidebar.
 3. Click on **"Predict CLV"** to get the estimated Customer Lifetime Value instantly.
 4. Explore the dataset, about and home  for further insights.
